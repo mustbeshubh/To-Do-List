@@ -1,0 +1,18 @@
+/* In App.css */
+.centered-container {
+  background-color: #172842;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.todo-container {
+  max-width: 800px;
+  width: 100%;
+  background-color: #c6e9a7;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
